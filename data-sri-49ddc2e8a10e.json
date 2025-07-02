@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "docker-ariflow",
+  "private_key_id": "e3e43d151f96a0de9084119c0a18f62e361fa739",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC7aWxLqE1srpHg\nilWPpF4tkNSLJiJE0iMxnqMd1jCAr1sJlPSnX6jEXfS/aNwwsOAsz+pA2Ylotfu/\njcNm4g7oPPONd9pqQqapqSouy5rsvc3Q2zVKKWdqeYw3zG4Mm7+CCoyfoM4l61q8\nn5fGZFRELw2LYK1+2w1RCY9A1jxzcP/jCIxREHsQXQ4eFdbugQSs+laXT/Q13Xnj\nI9fTweU/ALlJ2ccC4TkB9BnFfsngnZcCioBMxqSwiy2ZhvoTGzrQvcQ0yQdsWZut\n4ZQvXfT7XCgPx9XAdds+lXTkpUcH+RakknGg7KZ73OwNJksEm34NjuJcczyIN0mz\naddEb9j1AgMBAAECggEAOKjLNmZoHfr7HGUGMBqz5Fe8gmMhiifzvu0kiIE4gbdC\nMTfo7W80wUVcmL/VjhzzcWjcfAWojtEyDrwHvuOKOTkwMu1wyZ5j77g2ihZBPOC3\nSDT1u/mfi+e6diYmgUZXFDQnRp1hpcItWQhw5OhxN3n4QNKWMVt9f6oBtsruVMHn\n0YtP2I7W4RssW2big+tv8xRZ2j9XlWi8F4lD6T/qn19sWlFCJxNPUH+Fx7a2OwgR\nKhLvObU//IDooKiUeXSH+PigNEp197Ch6rDbpS0G/58gpW86wPqLLcuJPGhDPCvp\ns9cpsoSisi2CT1yujFXT3pxJOJ04EIgZqx6EyIk6AwKBgQD7QpMNGr9mPk3bO+ER\n5h9rrWGBNn+3q0FDeS0fvQrb7OIQ3Cqb4TXgYK79RvL6ZuoNMHjDrGihp43xFMjy\nL4vDAjAzUD15eASPMDTJ/dsN6W2td2xt01tspgvnlmQm25jBBvOyRjdNcGM2TqJ4\nnYADroM8rlEqOyuB6MMtDjeCdwKBgQC+8oCaftZF37WM60Xvgugj7Pstu89T6U6I\n2yR/Pq/NdoDU0ExkSzwpENCKAwHNEAVV3ZE2gOZTsB30sVQF4sJgKY6hMWnVzaP6\niKJqspqnmKOOVjtLzvtUk3nl/hvQ4ZWMkDDlpE/kt7jigkX1s4iaDZe/BMC2nS09\n7V2vTueO8wKBgQCQ3c+fLJ7SOnX1Q07/XOkc0jh3oY59vVXBq2oi9IIAT1IAWpCO\nk4jWt6ftDC0nxpKHzDy0xQEGw26JY2yAhn1UkDxuOYNYN6SZUjf9hkn4eW/tJf/0\nSnpZ6FrQydswtEgccv+q9+UG1xe8xhXS6SxX8xRjtjXB3Z+2JRfzMFE8/QKBgQCL\nY3kvzsFaVpkwWps94WDWwOsHEp+hkKGM0/RLkxZAtW4MbFYnrKgpDiY9aT6KVFSg\nvtJ/aA87Lkhf1IcSmNrt2chNsUWiFrDKda2il+i/yXQzto0opNrhfZqxoxLpI5PI\n/YVETfMocllbuF+bochpNNz+S1jmtcxN9ZW7IK12swKBgQCVhrBVQ4G3s4LD50mm\n3ocbMkLWoLcJ6c49cAw/xrFctA/IQtPVzTY0ww1cPzlxWx0/WmDp/EGuozTsoVIF\ns23zsPbevE1AgKIrx1ahBZcK/VtAEAzevhYW2k/BjcsKqXoh32nf5sytIOgftukb\nZaSZUpkk7HlggmIAkd2wfIAOZA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "airflow-service-account@docker-ariflow.iam.gserviceaccount.com",
+  "client_id": "103245405461295555114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow-service-account%40docker-ariflow.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
